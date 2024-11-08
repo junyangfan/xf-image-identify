@@ -1,6 +1,6 @@
 # 配置
 
-# 星火认知大模型的配置
+# 星火大模型API的配置，申请地址：https://xinghuo.xfyun.cn/sparkapi
 SPARKAI_APP_ID = 'app-id'
 SPARKAI_API_SECRET = 'api-secret'
 SPARKAI_API_KEY = 'api-key'
